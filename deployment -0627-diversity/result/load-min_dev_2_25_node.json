@@ -1,0 +1,330 @@
+{
+    "node_A": {
+        "cpu_0": 3,
+        "cpu_reserve": 1.9992000000000005,
+        "mem_0": 3072,
+        "mem_reserve": 2418.0361000000016,
+        "svc_num": 28,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 2,
+                "Alpine": 1
+            },
+            "svc_b": {
+                "BusyBox": 2,
+                "Alpine": 1
+            },
+            "svc_c": {
+                "BusyBox": 2,
+                "Alpine": 1
+            },
+            "svc_d": {
+                "BusyBox": 2,
+                "Alpine": 2
+            },
+            "svc_e": {
+                "BusyBox": 2,
+                "Alpine": 1
+            },
+            "svc_f": {
+                "BusyBox": 1,
+                "Alpine": 6
+            },
+            "svc_g": {
+                "BusyBox": 3,
+                "Alpine": 1
+            },
+            "svc_h": {
+                "BusyBox": 1,
+                "Alpine": 0
+            }
+        }
+    },
+    "node_B": {
+        "cpu_0": 1,
+        "cpu_reserve": 0.7069999999999997,
+        "mem_0": 1024,
+        "mem_reserve": 744.5789000000002,
+        "svc_num": 10,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 0,
+                "Alpine": 1
+            },
+            "svc_b": {
+                "BusyBox": 0,
+                "Alpine": 1
+            },
+            "svc_c": {
+                "BusyBox": 0,
+                "Alpine": 0
+            },
+            "svc_d": {
+                "BusyBox": 0,
+                "Alpine": 0
+            },
+            "svc_e": {
+                "BusyBox": 0,
+                "Alpine": 5
+            },
+            "svc_f": {
+                "BusyBox": 0,
+                "Alpine": 2
+            },
+            "svc_g": {
+                "BusyBox": 0,
+                "Alpine": 0
+            },
+            "svc_h": {
+                "BusyBox": 0,
+                "Alpine": 1
+            }
+        }
+    },
+    "node_C": {
+        "cpu_0": 4,
+        "cpu_reserve": 2.796800000000001,
+        "mem_0": 4096,
+        "mem_reserve": 3091.9360000000006,
+        "svc_num": 37,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 3,
+                "Alpine": 1
+            },
+            "svc_b": {
+                "BusyBox": 1,
+                "Alpine": 3
+            },
+            "svc_c": {
+                "BusyBox": 1,
+                "Alpine": 1
+            },
+            "svc_d": {
+                "BusyBox": 3,
+                "Alpine": 4
+            },
+            "svc_e": {
+                "BusyBox": 2,
+                "Alpine": 1
+            },
+            "svc_f": {
+                "BusyBox": 4,
+                "Alpine": 2
+            },
+            "svc_g": {
+                "BusyBox": 3,
+                "Alpine": 4
+            },
+            "svc_h": {
+                "BusyBox": 2,
+                "Alpine": 2
+            }
+        }
+    },
+    "node_D": {
+        "cpu_0": 4,
+        "cpu_reserve": 2.8276000000000012,
+        "mem_0": 4096,
+        "mem_reserve": 3109.2861999999996,
+        "svc_num": 38,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 1,
+                "Alpine": 3
+            },
+            "svc_b": {
+                "BusyBox": 3,
+                "Alpine": 3
+            },
+            "svc_c": {
+                "BusyBox": 2,
+                "Alpine": 3
+            },
+            "svc_d": {
+                "BusyBox": 6,
+                "Alpine": 1
+            },
+            "svc_e": {
+                "BusyBox": 2,
+                "Alpine": 2
+            },
+            "svc_f": {
+                "BusyBox": 3,
+                "Alpine": 1
+            },
+            "svc_g": {
+                "BusyBox": 3,
+                "Alpine": 1
+            },
+            "svc_h": {
+                "BusyBox": 3,
+                "Alpine": 1
+            }
+        }
+    },
+    "node_E": {
+        "cpu_0": 2,
+        "cpu_reserve": 1.4187000000000007,
+        "mem_0": 2048,
+        "mem_reserve": 1520.6845999999998,
+        "svc_num": 21,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 1,
+                "Alpine": 0
+            },
+            "svc_b": {
+                "BusyBox": 1,
+                "Alpine": 0
+            },
+            "svc_c": {
+                "BusyBox": 1,
+                "Alpine": 3
+            },
+            "svc_d": {
+                "BusyBox": 2,
+                "Alpine": 4
+            },
+            "svc_e": {
+                "BusyBox": 2,
+                "Alpine": 1
+            },
+            "svc_f": {
+                "BusyBox": 1,
+                "Alpine": 1
+            },
+            "svc_g": {
+                "BusyBox": 0,
+                "Alpine": 1
+            },
+            "svc_h": {
+                "BusyBox": 1,
+                "Alpine": 2
+            }
+        }
+    },
+    "node_F": {
+        "cpu_0": 4,
+        "cpu_reserve": 2.7856000000000014,
+        "mem_0": 4096,
+        "mem_reserve": 3130.501800000001,
+        "svc_num": 38,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 2,
+                "Alpine": 5
+            },
+            "svc_b": {
+                "BusyBox": 1,
+                "Alpine": 3
+            },
+            "svc_c": {
+                "BusyBox": 2,
+                "Alpine": 1
+            },
+            "svc_d": {
+                "BusyBox": 4,
+                "Alpine": 3
+            },
+            "svc_e": {
+                "BusyBox": 1,
+                "Alpine": 0
+            },
+            "svc_f": {
+                "BusyBox": 2,
+                "Alpine": 3
+            },
+            "svc_g": {
+                "BusyBox": 4,
+                "Alpine": 4
+            },
+            "svc_h": {
+                "BusyBox": 1,
+                "Alpine": 2
+            }
+        }
+    },
+    "node_G": {
+        "cpu_0": 4,
+        "cpu_reserve": 2.841000000000001,
+        "mem_0": 4096,
+        "mem_reserve": 3078.445700000002,
+        "svc_num": 38,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 5,
+                "Alpine": 1
+            },
+            "svc_b": {
+                "BusyBox": 2,
+                "Alpine": 0
+            },
+            "svc_c": {
+                "BusyBox": 3,
+                "Alpine": 2
+            },
+            "svc_d": {
+                "BusyBox": 1,
+                "Alpine": 4
+            },
+            "svc_e": {
+                "BusyBox": 3,
+                "Alpine": 1
+            },
+            "svc_f": {
+                "BusyBox": 5,
+                "Alpine": 2
+            },
+            "svc_g": {
+                "BusyBox": 2,
+                "Alpine": 5
+            },
+            "svc_h": {
+                "BusyBox": 2,
+                "Alpine": 0
+            }
+        }
+    },
+    "node_H": {
+        "cpu_0": 3,
+        "cpu_reserve": 2.0961000000000007,
+        "mem_0": 3072,
+        "mem_reserve": 2346.2367000000004,
+        "svc_num": 30,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 1,
+                "Alpine": 3
+            },
+            "svc_b": {
+                "BusyBox": 1,
+                "Alpine": 0
+            },
+            "svc_c": {
+                "BusyBox": 2,
+                "Alpine": 2
+            },
+            "svc_d": {
+                "BusyBox": 3,
+                "Alpine": 2
+            },
+            "svc_e": {
+                "BusyBox": 1,
+                "Alpine": 2
+            },
+            "svc_f": {
+                "BusyBox": 3,
+                "Alpine": 2
+            },
+            "svc_g": {
+                "BusyBox": 4,
+                "Alpine": 2
+            },
+            "svc_h": {
+                "BusyBox": 0,
+                "Alpine": 2
+            }
+        }
+    }
+}

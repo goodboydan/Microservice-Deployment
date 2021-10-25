@@ -1,0 +1,586 @@
+{
+    "node_A": {
+        "cpu_0": 3,
+        "cpu_reserve": 0.27280000000000026,
+        "mem_0": 3072,
+        "mem_reserve": 366.7781000000004,
+        "svc_num": 31,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 2,
+                "Alpine": 1,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 1
+            },
+            "svc_b": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 2,
+                "Fedora": 0
+            },
+            "svc_c": {
+                "BusyBox": 2,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 1,
+                "Fedora": 0
+            },
+            "svc_d": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 1
+            },
+            "svc_e": {
+                "BusyBox": 2,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 1,
+                "Debian": 1,
+                "Fedora": 0
+            },
+            "svc_f": {
+                "BusyBox": 2,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 1
+            },
+            "svc_g": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 1,
+                "Fedora": 0
+            },
+            "svc_h": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 2,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            }
+        }
+    },
+    "node_B": {
+        "cpu_0": 1,
+        "cpu_reserve": 0.004100000000000048,
+        "mem_0": 1024,
+        "mem_reserve": 172.8301,
+        "svc_num": 11,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 3,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_b": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 2
+            },
+            "svc_c": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_d": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_e": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 1
+            },
+            "svc_f": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_g": {
+                "BusyBox": 1,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_h": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            }
+        }
+    },
+    "node_C": {
+        "cpu_0": 4,
+        "cpu_reserve": 0.1095999999999997,
+        "mem_0": 4096,
+        "mem_reserve": 819.8438000000002,
+        "svc_num": 45,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 1,
+                "Fedora": 2
+            },
+            "svc_b": {
+                "BusyBox": 0,
+                "Alpine": 2,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 1,
+                "Fedora": 0
+            },
+            "svc_c": {
+                "BusyBox": 1,
+                "Alpine": 1,
+                "Ubuntu": 1,
+                "CentOS": 1,
+                "Debian": 1,
+                "Fedora": 1
+            },
+            "svc_d": {
+                "BusyBox": 2,
+                "Alpine": 2,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 2,
+                "Fedora": 1
+            },
+            "svc_e": {
+                "BusyBox": 0,
+                "Alpine": 2,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 1,
+                "Fedora": 0
+            },
+            "svc_f": {
+                "BusyBox": 2,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 3,
+                "Debian": 2,
+                "Fedora": 1
+            },
+            "svc_g": {
+                "BusyBox": 1,
+                "Alpine": 2,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 2
+            },
+            "svc_h": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 1,
+                "Fedora": 1
+            }
+        }
+    },
+    "node_D": {
+        "cpu_0": 4,
+        "cpu_reserve": 0.2374000000000005,
+        "mem_0": 4096,
+        "mem_reserve": 730.2395000000001,
+        "svc_num": 38,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 1,
+                "Alpine": 2,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 1
+            },
+            "svc_b": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 1
+            },
+            "svc_c": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 2,
+                "Debian": 0,
+                "Fedora": 2
+            },
+            "svc_d": {
+                "BusyBox": 1,
+                "Alpine": 1,
+                "Ubuntu": 1,
+                "CentOS": 1,
+                "Debian": 2,
+                "Fedora": 1
+            },
+            "svc_e": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 2
+            },
+            "svc_f": {
+                "BusyBox": 0,
+                "Alpine": 3,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 1,
+                "Fedora": 1
+            },
+            "svc_g": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 2,
+                "CentOS": 0,
+                "Debian": 3,
+                "Fedora": 1
+            },
+            "svc_h": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 1,
+                "Fedora": 0
+            }
+        }
+    },
+    "node_E": {
+        "cpu_0": 2,
+        "cpu_reserve": 0.036700000000000066,
+        "mem_0": 2048,
+        "mem_reserve": 520.4544,
+        "svc_num": 19,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_b": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_c": {
+                "BusyBox": 0,
+                "Alpine": 2,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 1
+            },
+            "svc_d": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 3,
+                "CentOS": 0,
+                "Debian": 2,
+                "Fedora": 1
+            },
+            "svc_e": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_f": {
+                "BusyBox": 1,
+                "Alpine": 2,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_g": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 1,
+                "Fedora": 0
+            },
+            "svc_h": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 1
+            }
+        }
+    },
+    "node_F": {
+        "cpu_0": 4,
+        "cpu_reserve": 0.006999999999999406,
+        "mem_0": 4096,
+        "mem_reserve": 1270.3176000000003,
+        "svc_num": 36,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 2,
+                "Fedora": 0
+            },
+            "svc_b": {
+                "BusyBox": 2,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_c": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_d": {
+                "BusyBox": 1,
+                "Alpine": 1,
+                "Ubuntu": 1,
+                "CentOS": 2,
+                "Debian": 1,
+                "Fedora": 1
+            },
+            "svc_e": {
+                "BusyBox": 1,
+                "Alpine": 1,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 1
+            },
+            "svc_f": {
+                "BusyBox": 1,
+                "Alpine": 1,
+                "Ubuntu": 3,
+                "CentOS": 0,
+                "Debian": 1,
+                "Fedora": 2
+            },
+            "svc_g": {
+                "BusyBox": 1,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 1
+            },
+            "svc_h": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 1,
+                "Fedora": 0
+            }
+        }
+    },
+    "node_G": {
+        "cpu_0": 4,
+        "cpu_reserve": 0.04529999999999937,
+        "mem_0": 4096,
+        "mem_reserve": 977.1019000000008,
+        "svc_num": 34,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 1,
+                "Debian": 2,
+                "Fedora": 0
+            },
+            "svc_b": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_c": {
+                "BusyBox": 1,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 2,
+                "Fedora": 0
+            },
+            "svc_d": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 2,
+                "Debian": 0,
+                "Fedora": 2
+            },
+            "svc_e": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 2,
+                "Debian": 2,
+                "Fedora": 0
+            },
+            "svc_f": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 1,
+                "Fedora": 1
+            },
+            "svc_g": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 3,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_h": {
+                "BusyBox": 2,
+                "Alpine": 0,
+                "Ubuntu": 0,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            }
+        }
+    },
+    "node_H": {
+        "cpu_0": 3,
+        "cpu_reserve": 0.26279999999999964,
+        "mem_0": 3072,
+        "mem_reserve": 436.1020000000001,
+        "svc_num": 26,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 2,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_b": {
+                "BusyBox": 1,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_c": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 1,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_d": {
+                "BusyBox": 1,
+                "Alpine": 1,
+                "Ubuntu": 0,
+                "CentOS": 1,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_e": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 0
+            },
+            "svc_f": {
+                "BusyBox": 0,
+                "Alpine": 0,
+                "Ubuntu": 2,
+                "CentOS": 1,
+                "Debian": 1,
+                "Fedora": 0
+            },
+            "svc_g": {
+                "BusyBox": 1,
+                "Alpine": 2,
+                "Ubuntu": 2,
+                "CentOS": 0,
+                "Debian": 1,
+                "Fedora": 2
+            },
+            "svc_h": {
+                "BusyBox": 0,
+                "Alpine": 1,
+                "Ubuntu": 1,
+                "CentOS": 0,
+                "Debian": 0,
+                "Fedora": 1
+            }
+        }
+    }
+}

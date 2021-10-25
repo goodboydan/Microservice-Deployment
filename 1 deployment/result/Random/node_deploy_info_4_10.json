@@ -1,0 +1,142 @@
+{
+    "node_A": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.6679,
+        "mem_0": 4096,
+        "mem_reserve": 3731.8973,
+        "svc_num": 5,
+        "deployment": {
+            "svc_a": 1,
+            "svc_b": 2,
+            "svc_c": 0,
+            "svc_d": 0,
+            "svc_e": 2
+        }
+    },
+    "node_B": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.351000000000001,
+        "mem_0": 4096,
+        "mem_reserve": 3468.5769000000005,
+        "svc_num": 8,
+        "deployment": {
+            "svc_a": 2,
+            "svc_b": 1,
+            "svc_c": 3,
+            "svc_d": 1,
+            "svc_e": 1
+        }
+    },
+    "node_C": {
+        "cpu_0": 4,
+        "cpu_reserve": 2.9063,
+        "mem_0": 4096,
+        "mem_reserve": 3345.201200000001,
+        "svc_num": 10,
+        "deployment": {
+            "svc_a": 1,
+            "svc_b": 3,
+            "svc_c": 2,
+            "svc_d": 3,
+            "svc_e": 1
+        }
+    },
+    "node_D": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.7042,
+        "mem_0": 4096,
+        "mem_reserve": 3846.146,
+        "svc_num": 6,
+        "deployment": {
+            "svc_a": 2,
+            "svc_b": 0,
+            "svc_c": 2,
+            "svc_d": 2,
+            "svc_e": 0
+        }
+    },
+    "node_E": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.6406,
+        "mem_0": 4096,
+        "mem_reserve": 3713.2571000000003,
+        "svc_num": 3,
+        "deployment": {
+            "svc_a": 1,
+            "svc_b": 1,
+            "svc_c": 1,
+            "svc_d": 0,
+            "svc_e": 0
+        }
+    },
+    "node_F": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.8807,
+        "mem_0": 4096,
+        "mem_reserve": 3978.934,
+        "svc_num": 3,
+        "deployment": {
+            "svc_a": 0,
+            "svc_b": 1,
+            "svc_c": 0,
+            "svc_d": 1,
+            "svc_e": 1
+        }
+    },
+    "node_G": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.4835000000000003,
+        "mem_0": 4096,
+        "mem_reserve": 3855.7519,
+        "svc_num": 5,
+        "deployment": {
+            "svc_a": 1,
+            "svc_b": 0,
+            "svc_c": 2,
+            "svc_d": 2,
+            "svc_e": 0
+        }
+    },
+    "node_H": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.9329,
+        "mem_0": 4096,
+        "mem_reserve": 4029.6199,
+        "svc_num": 2,
+        "deployment": {
+            "svc_a": 1,
+            "svc_b": 0,
+            "svc_c": 0,
+            "svc_d": 0,
+            "svc_e": 1
+        }
+    },
+    "node_I": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.8362,
+        "mem_0": 4096,
+        "mem_reserve": 3879.6214,
+        "svc_num": 2,
+        "deployment": {
+            "svc_a": 0,
+            "svc_b": 0,
+            "svc_c": 0,
+            "svc_d": 0,
+            "svc_e": 2
+        }
+    },
+    "node_J": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.3907999999999996,
+        "mem_0": 4096,
+        "mem_reserve": 3524.2611000000006,
+        "svc_num": 6,
+        "deployment": {
+            "svc_a": 1,
+            "svc_b": 2,
+            "svc_c": 0,
+            "svc_d": 1,
+            "svc_e": 2
+        }
+    }
+}

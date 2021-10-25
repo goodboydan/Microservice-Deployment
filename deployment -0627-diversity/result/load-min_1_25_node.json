@@ -1,0 +1,266 @@
+{
+    "node_A": {
+        "cpu_0": 3,
+        "cpu_reserve": 2.5638000000000005,
+        "mem_0": 3072,
+        "mem_reserve": 2758.9635,
+        "svc_num": 13,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 2
+            },
+            "svc_b": {
+                "BusyBox": 1
+            },
+            "svc_c": {
+                "BusyBox": 1
+            },
+            "svc_d": {
+                "BusyBox": 2
+            },
+            "svc_e": {
+                "BusyBox": 1
+            },
+            "svc_f": {
+                "BusyBox": 3
+            },
+            "svc_g": {
+                "BusyBox": 2
+            },
+            "svc_h": {
+                "BusyBox": 1
+            }
+        }
+    },
+    "node_B": {
+        "cpu_0": 1,
+        "cpu_reserve": 0.7509999999999999,
+        "mem_0": 1024,
+        "mem_reserve": 808.4083,
+        "svc_num": 8,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 1
+            },
+            "svc_b": {
+                "BusyBox": 1
+            },
+            "svc_c": {
+                "BusyBox": 1
+            },
+            "svc_d": {
+                "BusyBox": 1
+            },
+            "svc_e": {
+                "BusyBox": 1
+            },
+            "svc_f": {
+                "BusyBox": 1
+            },
+            "svc_g": {
+                "BusyBox": 1
+            },
+            "svc_h": {
+                "BusyBox": 1
+            }
+        }
+    },
+    "node_C": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.4222,
+        "mem_0": 4096,
+        "mem_reserve": 3674.3817999999997,
+        "svc_num": 16,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 2
+            },
+            "svc_b": {
+                "BusyBox": 2
+            },
+            "svc_c": {
+                "BusyBox": 2
+            },
+            "svc_d": {
+                "BusyBox": 3
+            },
+            "svc_e": {
+                "BusyBox": 2
+            },
+            "svc_f": {
+                "BusyBox": 3
+            },
+            "svc_g": {
+                "BusyBox": 2
+            },
+            "svc_h": {
+                "BusyBox": 0
+            }
+        }
+    },
+    "node_D": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.496800000000001,
+        "mem_0": 4096,
+        "mem_reserve": 3618.0611,
+        "svc_num": 19,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 2
+            },
+            "svc_b": {
+                "BusyBox": 2
+            },
+            "svc_c": {
+                "BusyBox": 3
+            },
+            "svc_d": {
+                "BusyBox": 2
+            },
+            "svc_e": {
+                "BusyBox": 3
+            },
+            "svc_f": {
+                "BusyBox": 3
+            },
+            "svc_g": {
+                "BusyBox": 1
+            },
+            "svc_h": {
+                "BusyBox": 3
+            }
+        }
+    },
+    "node_E": {
+        "cpu_0": 2,
+        "cpu_reserve": 1.6920000000000004,
+        "mem_0": 2048,
+        "mem_reserve": 1805.9712,
+        "svc_num": 9,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 1
+            },
+            "svc_b": {
+                "BusyBox": 1
+            },
+            "svc_c": {
+                "BusyBox": 1
+            },
+            "svc_d": {
+                "BusyBox": 2
+            },
+            "svc_e": {
+                "BusyBox": 1
+            },
+            "svc_f": {
+                "BusyBox": 1
+            },
+            "svc_g": {
+                "BusyBox": 1
+            },
+            "svc_h": {
+                "BusyBox": 1
+            }
+        }
+    },
+    "node_F": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.4246000000000003,
+        "mem_0": 4096,
+        "mem_reserve": 3681.7409999999995,
+        "svc_num": 17,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 2
+            },
+            "svc_b": {
+                "BusyBox": 1
+            },
+            "svc_c": {
+                "BusyBox": 2
+            },
+            "svc_d": {
+                "BusyBox": 4
+            },
+            "svc_e": {
+                "BusyBox": 2
+            },
+            "svc_f": {
+                "BusyBox": 3
+            },
+            "svc_g": {
+                "BusyBox": 2
+            },
+            "svc_h": {
+                "BusyBox": 1
+            }
+        }
+    },
+    "node_G": {
+        "cpu_0": 4,
+        "cpu_reserve": 3.4564000000000012,
+        "mem_0": 4096,
+        "mem_reserve": 3651.8282,
+        "svc_num": 18,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 2
+            },
+            "svc_b": {
+                "BusyBox": 1
+            },
+            "svc_c": {
+                "BusyBox": 2
+            },
+            "svc_d": {
+                "BusyBox": 2
+            },
+            "svc_e": {
+                "BusyBox": 2
+            },
+            "svc_f": {
+                "BusyBox": 3
+            },
+            "svc_g": {
+                "BusyBox": 4
+            },
+            "svc_h": {
+                "BusyBox": 2
+            }
+        }
+    },
+    "node_H": {
+        "cpu_0": 3,
+        "cpu_reserve": 2.5468000000000006,
+        "mem_0": 3072,
+        "mem_reserve": 2711.4442000000004,
+        "svc_num": 13,
+        "deployment": {
+            "svc_a": {
+                "BusyBox": 3
+            },
+            "svc_b": {
+                "BusyBox": 2
+            },
+            "svc_c": {
+                "BusyBox": 1
+            },
+            "svc_d": {
+                "BusyBox": 1
+            },
+            "svc_e": {
+                "BusyBox": 1
+            },
+            "svc_f": {
+                "BusyBox": 2
+            },
+            "svc_g": {
+                "BusyBox": 2
+            },
+            "svc_h": {
+                "BusyBox": 1
+            }
+        }
+    }
+}

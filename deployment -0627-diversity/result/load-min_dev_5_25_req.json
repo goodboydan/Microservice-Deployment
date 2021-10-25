@@ -1,0 +1,1476 @@
+{
+    "0": {
+        "len": 6,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "Debian",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "Ubuntu",
+                    "node_C"
+                ],
+                [
+                    "CentOS",
+                    "node_E"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "Debian",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "Alpine",
+                    "node_C"
+                ],
+                [
+                    "Ubuntu",
+                    "node_D"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "Debian",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Debian",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "1": {
+        "len": 8,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "Ubuntu",
+                    "node_A"
+                ],
+                [
+                    "CentOS",
+                    "node_B"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "Ubuntu",
+                    "node_A"
+                ],
+                [
+                    "CentOS",
+                    "node_C"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "Ubuntu",
+                    "node_A"
+                ],
+                [
+                    "CentOS",
+                    "node_D"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "CentOS",
+                    "node_A"
+                ],
+                [
+                    "Debian",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "Ubuntu",
+                    "node_A"
+                ],
+                [
+                    "CentOS",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Ubuntu",
+                    "node_A"
+                ],
+                [
+                    "CentOS",
+                    "node_H"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "CentOS",
+                    "node_A"
+                ],
+                [
+                    "Debian",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "Ubuntu",
+                    "node_A"
+                ],
+                [
+                    "CentOS",
+                    "node_D"
+                ]
+            ]
+        }
+    },
+    "2": {
+        "len": 8,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_D"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_A"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_E"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "Debian",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_D"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_E"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "Debian",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "Debian",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ]
+        }
+    },
+    "3": {
+        "len": 1,
+        "ms_list": [
+            "svc_d"
+        ],
+        "deployment": {
+            "svc_d": [
+                [
+                    "Debian",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_A"
+                ]
+            ]
+        }
+    },
+    "4": {
+        "len": 5,
+        "ms_list": [
+            "svc_a",
+            "svc_d",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "CentOS",
+                    "node_E"
+                ],
+                [
+                    "Debian",
+                    "node_B"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "Alpine",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Alpine",
+                    "node_E"
+                ],
+                [
+                    "Ubuntu",
+                    "node_A"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "CentOS",
+                    "node_E"
+                ],
+                [
+                    "Debian",
+                    "node_D"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ]
+            ]
+        }
+    },
+    "5": {
+        "len": 2,
+        "ms_list": [
+            "svc_a",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "Alpine",
+                    "node_C"
+                ],
+                [
+                    "Ubuntu",
+                    "node_F"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "CentOS",
+                    "node_C"
+                ],
+                [
+                    "Debian",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "6": {
+        "len": 7,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "CentOS",
+                    "node_F"
+                ],
+                [
+                    "Debian",
+                    "node_D"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "CentOS",
+                    "node_F"
+                ],
+                [
+                    "Debian",
+                    "node_C"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "CentOS",
+                    "node_F"
+                ],
+                [
+                    "Debian",
+                    "node_G"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "Ubuntu",
+                    "node_F"
+                ],
+                [
+                    "CentOS",
+                    "node_B"
+                ],
+                [
+                    "Debian",
+                    "node_D"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "CentOS",
+                    "node_F"
+                ],
+                [
+                    "Debian",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "CentOS",
+                    "node_F"
+                ],
+                [
+                    "Debian",
+                    "node_E"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "Ubuntu",
+                    "node_F"
+                ],
+                [
+                    "CentOS",
+                    "node_D"
+                ],
+                [
+                    "Debian",
+                    "node_C"
+                ]
+            ]
+        }
+    },
+    "7": {
+        "len": 4,
+        "ms_list": [
+            "svc_c",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Debian",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "Debian",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "Alpine",
+                    "node_A"
+                ],
+                [
+                    "Ubuntu",
+                    "node_D"
+                ]
+            ]
+        }
+    },
+    "8": {
+        "len": 8,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ],
+                [
+                    "Ubuntu",
+                    "node_F"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "Alpine",
+                    "node_A"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "Alpine",
+                    "node_D"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_A"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "Alpine",
+                    "node_D"
+                ]
+            ]
+        }
+    },
+    "9": {
+        "len": 3,
+        "ms_list": [
+            "svc_a",
+            "svc_c",
+            "svc_e"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "Debian",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "Ubuntu",
+                    "node_D"
+                ],
+                [
+                    "CentOS",
+                    "node_H"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "Ubuntu",
+                    "node_D"
+                ],
+                [
+                    "CentOS",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "10": {
+        "len": 7,
+        "ms_list": [
+            "svc_a",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "Alpine",
+                    "node_G"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "Alpine",
+                    "node_G"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "Alpine",
+                    "node_E"
+                ],
+                [
+                    "Ubuntu",
+                    "node_G"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "Alpine",
+                    "node_A"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "Alpine",
+                    "node_D"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "Alpine",
+                    "node_A"
+                ],
+                [
+                    "Ubuntu",
+                    "node_E"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "Alpine",
+                    "node_F"
+                ],
+                [
+                    "Ubuntu",
+                    "node_D"
+                ]
+            ]
+        }
+    },
+    "11": {
+        "len": 2,
+        "ms_list": [
+            "svc_d",
+            "svc_e"
+        ],
+        "deployment": {
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "Debian",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ]
+        }
+    },
+    "12": {
+        "len": 2,
+        "ms_list": [
+            "svc_d",
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_d": [
+                [
+                    "Ubuntu",
+                    "node_H"
+                ],
+                [
+                    "CentOS",
+                    "node_D"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Ubuntu",
+                    "node_H"
+                ],
+                [
+                    "CentOS",
+                    "node_C"
+                ]
+            ]
+        }
+    },
+    "13": {
+        "len": 8,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "Ubuntu",
+                    "node_H"
+                ],
+                [
+                    "CentOS",
+                    "node_G"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "Alpine",
+                    "node_D"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "Ubuntu",
+                    "node_H"
+                ],
+                [
+                    "CentOS",
+                    "node_C"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "CentOS",
+                    "node_H"
+                ],
+                [
+                    "Debian",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "Ubuntu",
+                    "node_H"
+                ],
+                [
+                    "CentOS",
+                    "node_C"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Ubuntu",
+                    "node_H"
+                ],
+                [
+                    "CentOS",
+                    "node_D"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "CentOS",
+                    "node_H"
+                ],
+                [
+                    "Debian",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "CentOS",
+                    "node_H"
+                ],
+                [
+                    "Debian",
+                    "node_E"
+                ]
+            ]
+        }
+    },
+    "14": {
+        "len": 5,
+        "ms_list": [
+            "svc_b",
+            "svc_c",
+            "svc_e",
+            "svc_f",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_b": [
+                [
+                    "Alpine",
+                    "node_C"
+                ],
+                [
+                    "Ubuntu",
+                    "node_F"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "CentOS",
+                    "node_C"
+                ],
+                [
+                    "Debian",
+                    "node_B"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "CentOS",
+                    "node_C"
+                ],
+                [
+                    "Debian",
+                    "node_D"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "CentOS",
+                    "node_C"
+                ],
+                [
+                    "Debian",
+                    "node_A"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "Ubuntu",
+                    "node_C"
+                ],
+                [
+                    "CentOS",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "15": {
+        "len": 1,
+        "ms_list": [
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_f": [
+                [
+                    "Debian",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ]
+        }
+    },
+    "16": {
+        "len": 2,
+        "ms_list": [
+            "svc_a",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "CentOS",
+                    "node_A"
+                ],
+                [
+                    "Debian",
+                    "node_C"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "Alpine",
+                    "node_B"
+                ]
+            ]
+        }
+    },
+    "17": {
+        "len": 6,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_B"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "Debian",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_F"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "CentOS",
+                    "node_H"
+                ],
+                [
+                    "Debian",
+                    "node_A"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_G"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "Alpine",
+                    "node_H"
+                ],
+                [
+                    "Ubuntu",
+                    "node_F"
+                ]
+            ]
+        }
+    },
+    "18": {
+        "len": 3,
+        "ms_list": [
+            "svc_c",
+            "svc_d",
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_c": [
+                [
+                    "Debian",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "CentOS",
+                    "node_C"
+                ],
+                [
+                    "Debian",
+                    "node_F"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "Alpine",
+                    "node_H"
+                ]
+            ]
+        }
+    },
+    "19": {
+        "len": 4,
+        "ms_list": [
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_d": [
+                [
+                    "Ubuntu",
+                    "node_G"
+                ],
+                [
+                    "CentOS",
+                    "node_D"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "Alpine",
+                    "node_F"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Ubuntu",
+                    "node_G"
+                ],
+                [
+                    "CentOS",
+                    "node_B"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "Ubuntu",
+                    "node_G"
+                ],
+                [
+                    "CentOS",
+                    "node_F"
+                ]
+            ]
+        }
+    },
+    "20": {
+        "len": 1,
+        "ms_list": [
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_f": [
+                [
+                    "Alpine",
+                    "node_A"
+                ],
+                [
+                    "Ubuntu",
+                    "node_F"
+                ]
+            ]
+        }
+    },
+    "21": {
+        "len": 4,
+        "ms_list": [
+            "svc_b",
+            "svc_d",
+            "svc_f",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_B"
+                ],
+                [
+                    "Alpine",
+                    "node_C"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "Debian",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Alpine",
+                    "node_F"
+                ],
+                [
+                    "Ubuntu",
+                    "node_C"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "CentOS",
+                    "node_F"
+                ],
+                [
+                    "Debian",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "22": {
+        "len": 7,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "Debian",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "Debian",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "Debian",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "Alpine",
+                    "node_G"
+                ],
+                [
+                    "Ubuntu",
+                    "node_D"
+                ],
+                [
+                    "CentOS",
+                    "node_E"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "Debian",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "Debian",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "Alpine",
+                    "node_G"
+                ],
+                [
+                    "Ubuntu",
+                    "node_C"
+                ],
+                [
+                    "CentOS",
+                    "node_D"
+                ]
+            ]
+        }
+    },
+    "23": {
+        "len": 5,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "Alpine",
+                    "node_D"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "CentOS",
+                    "node_C"
+                ],
+                [
+                    "Debian",
+                    "node_D"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "Alpine",
+                    "node_G"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "Alpine",
+                    "node_A"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "Debian",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "24": {
+        "len": 4,
+        "ms_list": [
+            "svc_a",
+            "svc_d",
+            "svc_f",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "Ubuntu",
+                    "node_G"
+                ],
+                [
+                    "CentOS",
+                    "node_C"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "Alpine",
+                    "node_G"
+                ],
+                [
+                    "Ubuntu",
+                    "node_F"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "CentOS",
+                    "node_G"
+                ],
+                [
+                    "Debian",
+                    "node_D"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "Alpine",
+                    "node_G"
+                ],
+                [
+                    "Ubuntu",
+                    "node_E"
+                ]
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+0 1 svc_a
+1 5 svc_c svc_e svc_f svc_g svc_h
+2 3 svc_c svc_f svc_h
+3 7 svc_a svc_b svc_c svc_d svc_e svc_f svc_g
+4 1 svc_b
+5 2 svc_e svc_h
+6 6 svc_a svc_b svc_c svc_d svc_e svc_f
+7 6 svc_a svc_b svc_c svc_e svc_g svc_h
+8 2 svc_c svc_h
+9 1 svc_g

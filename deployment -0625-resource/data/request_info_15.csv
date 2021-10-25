@@ -1,0 +1,15 @@
+0 1 svc_e
+1 6 svc_a svc_b svc_c svc_f svc_g svc_h
+2 6 svc_a svc_b svc_c svc_f svc_g svc_h
+3 6 svc_a svc_c svc_e svc_f svc_g svc_h
+4 4 svc_a svc_b svc_c svc_g
+5 4 svc_b svc_c svc_d svc_f
+6 2 svc_a svc_e
+7 4 svc_a svc_b svc_f svc_h
+8 6 svc_a svc_b svc_c svc_d svc_e svc_g
+9 2 svc_e svc_g
+10 5 svc_a svc_b svc_c svc_g svc_h
+11 3 svc_c svc_f svc_h
+12 8 svc_a svc_b svc_c svc_d svc_e svc_f svc_g svc_h
+13 8 svc_a svc_b svc_c svc_d svc_e svc_f svc_g svc_h
+14 4 svc_b svc_d svc_e svc_h

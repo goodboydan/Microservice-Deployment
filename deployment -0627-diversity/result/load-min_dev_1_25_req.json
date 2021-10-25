@@ -1,0 +1,1476 @@
+{
+    "0": {
+        "len": 6,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ]
+        }
+    },
+    "1": {
+        "len": 8,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ]
+        }
+    },
+    "2": {
+        "len": 8,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_A"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_A"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_A"
+                ]
+            ]
+        }
+    },
+    "3": {
+        "len": 1,
+        "ms_list": [
+            "svc_d"
+        ],
+        "deployment": {
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ]
+        }
+    },
+    "4": {
+        "len": 5,
+        "ms_list": [
+            "svc_a",
+            "svc_d",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "5": {
+        "len": 2,
+        "ms_list": [
+            "svc_a",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ]
+        }
+    },
+    "6": {
+        "len": 7,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_A"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ]
+        }
+    },
+    "7": {
+        "len": 4,
+        "ms_list": [
+            "svc_c",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "8": {
+        "len": 8,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "9": {
+        "len": 3,
+        "ms_list": [
+            "svc_a",
+            "svc_c",
+            "svc_e"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "10": {
+        "len": 7,
+        "ms_list": [
+            "svc_a",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "11": {
+        "len": 2,
+        "ms_list": [
+            "svc_d",
+            "svc_e"
+        ],
+        "deployment": {
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_A"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ]
+        }
+    },
+    "12": {
+        "len": 2,
+        "ms_list": [
+            "svc_d",
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ]
+        }
+    },
+    "13": {
+        "len": 8,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_A"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ]
+        }
+    },
+    "14": {
+        "len": 5,
+        "ms_list": [
+            "svc_b",
+            "svc_c",
+            "svc_e",
+            "svc_f",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_F"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ]
+        }
+    },
+    "15": {
+        "len": 1,
+        "ms_list": [
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ]
+        }
+    },
+    "16": {
+        "len": 2,
+        "ms_list": [
+            "svc_a",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_A"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ]
+        }
+    },
+    "17": {
+        "len": 6,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ]
+            ]
+        }
+    },
+    "18": {
+        "len": 3,
+        "ms_list": [
+            "svc_c",
+            "svc_d",
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "19": {
+        "len": 4,
+        "ms_list": [
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_G"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ]
+        }
+    },
+    "20": {
+        "len": 1,
+        "ms_list": [
+            "svc_f"
+        ],
+        "deployment": {
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ]
+        }
+    },
+    "21": {
+        "len": 4,
+        "ms_list": [
+            "svc_b",
+            "svc_d",
+            "svc_f",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_E"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_C"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ]
+        }
+    },
+    "22": {
+        "len": 7,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_c",
+            "svc_d",
+            "svc_e",
+            "svc_f",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ],
+            "svc_c": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_e": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_E"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ],
+                [
+                    "BusyBox",
+                    "node_C"
+                ]
+            ]
+        }
+    },
+    "23": {
+        "len": 5,
+        "ms_list": [
+            "svc_a",
+            "svc_b",
+            "svc_f",
+            "svc_g",
+            "svc_h"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_b": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_H"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_h": [
+                [
+                    "BusyBox",
+                    "node_A"
+                ],
+                [
+                    "BusyBox",
+                    "node_B"
+                ]
+            ]
+        }
+    },
+    "24": {
+        "len": 4,
+        "ms_list": [
+            "svc_a",
+            "svc_d",
+            "svc_f",
+            "svc_g"
+        ],
+        "deployment": {
+            "svc_a": [
+                [
+                    "BusyBox",
+                    "node_B"
+                ],
+                [
+                    "BusyBox",
+                    "node_G"
+                ]
+            ],
+            "svc_d": [
+                [
+                    "BusyBox",
+                    "node_B"
+                ],
+                [
+                    "BusyBox",
+                    "node_F"
+                ]
+            ],
+            "svc_f": [
+                [
+                    "BusyBox",
+                    "node_B"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ],
+            "svc_g": [
+                [
+                    "BusyBox",
+                    "node_B"
+                ],
+                [
+                    "BusyBox",
+                    "node_D"
+                ]
+            ]
+        }
+    }
+}
